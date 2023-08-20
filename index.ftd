@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfolio-suvm7
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -170,7 +170,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: SHUBHAM,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -192,7 +192,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:suvm.dev@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
